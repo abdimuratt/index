@@ -1,0 +1,47 @@
+P {font-variant: small-caps;}
+
+
+	P {font-style:sans-serif;}
+	p{font-style:italic}
+	p{font-weight:500}
+	p{font-size:120%}
+	p{color:green;}
+	p{text-decoration: underline;}
+
+	P {text-indent: 50pt;}
+	P {line-height: 50 %}
+	P {word-spacing: 50 %}
+
+	table {border-width: think;}
+	table {border-color: red;}
+	
+	a {
+		padding: 20px ;
+		height: 50px ;
+		line-height: 50px;
+		width: 150px;
+		cursor: help;
+
+	}
+	.grid{
+
+	}
+	img:nth-child(1){
+		transition-duration: 1.5s;
+	}
+img:nth-child(1):hover{
+	filter: hue-rotate(270deg);
+
+}
+
+
+img:nth-child(3){
+	filter:contrast(2);
+
+}
+img:nth-child(5){
+	filter:invert(1);
+}
+
+
+
